@@ -5,6 +5,7 @@ A branded graphical boot picker for OpenCore.
 Instead of OpenCore's black-and-white text menu, you boot into this:
 
 ![HackMate-Core picker](preview.png)
+I'm looking at this and i'm thinking how did i do this.. It's crazy how far hackmate has gotten.
 
 The HackMate banner over a blurred macOS Tahoe backdrop, a short legend for what
 Safe Mode / Recovery / Reset NVRAM actually do, mouse support, readable entry
